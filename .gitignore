@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+#files to ignore
+.git/
+.settings/
+.classpath
+.factorypath
+.project
+.gitattributes
+.mvn
+
 # Log file
 *.log
 
@@ -23,12 +32,7 @@
 hs_err_pid*
 replay_pid*
 
-#files to ignore
-.git/
-.settings/
-.classpath
-.factorypath
-.project
+
 
 
 
